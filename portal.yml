@@ -1,0 +1,41 @@
+site:
+  title: LiTec Courses
+  description: Öffentliche Unterrichtsmaterialien nach Jahrgang
+  copyright:
+    holders:
+      - Peter Haslinger
+    year: 2026
+    notice: Alle Rechte vorbehalten.
+
+labels:
+  openEntry: Kurs öffnen
+  emptySection: Noch keine veröffentlichten Kurse.
+  footer: Öffentlich freigegebene Unterrichtsmaterialien.
+
+sections:
+  - title: 1. Jahrgang
+    entries: []
+  - title: 2. Jahrgang
+    entries: []
+  - title: 3. Jahrgang
+    entries:
+      - title: MEDT3
+        description: Medientechnik
+        url: https://litec-courses.github.io/MEDT3/
+      - title: SYT3
+        description: Systemtechnik
+        url: https://litec-courses.github.io/SYT3/
+  - title: 4. Jahrgang
+    entries: []
+  - title: 5. Jahrgang
+    entries: []
+  - title: Infrastruktur
+    entries:
+      - title: Course Tooling
+        description: Theme und Publishing-Demo
+        url: https://litec-courses.github.io/course-tooling/
+        linkTitle: Demo öffnen
+      - title: Kurs-Template
+        description: Vorlage für neue Slidev-Kurs-Repositories
+        url: https://litec-courses.github.io/tmpl-slidev-course/
+        linkTitle: Vorlage öffnen

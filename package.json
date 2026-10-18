@@ -1,0 +1,15 @@
+{
+  "name": "litec-courses-portal",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "pages:build": "litec-course-portal",
+    "pages:preview": "bunx vite preview --outDir dist"
+  },
+  "devDependencies": {
+    "slidev-theme-litec": "github:litec-courses/course-tooling#v0.9.0"
+  }
+}
