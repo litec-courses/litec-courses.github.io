@@ -10,6 +10,6 @@
     "pages:preview": "bunx vite preview --outDir dist"
   },
   "devDependencies": {
-    "slidev-theme-litec": "github:litec-courses/course-tooling#v0.9.0"
+    "slidev-theme-litec": "github:litec-courses/course-tooling#v0.9.1"
   }
 }
