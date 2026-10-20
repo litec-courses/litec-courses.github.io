@@ -16,7 +16,10 @@ sections:
   - title: 1. Jahrgang
     entries: []
   - title: 2. Jahrgang
-    entries: []
+    entries:
+      - title: SYT2
+        description: Systemtechnik
+        url: https://litec-courses.github.io/SYT2/
   - title: 3. Jahrgang
     entries:
       - title: MEDT3
